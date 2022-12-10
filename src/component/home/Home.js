@@ -36,7 +36,7 @@ const Home = () => {
   const getDecToken = () => {
     if (token) {
       //setDecToken(jwt_decode(token));
-      console.log("radi=", token);
+      console.log("radii=", token);
     }
   };
   const isAdmin = () => {
