@@ -1,0 +1,14 @@
+.dropdown-toggle-bell::after {
+    display: none !important;
+}
+.active {
+    color: #2118a3 !important;
+    font-weight: bold;
+}
+.navbarCustom {
+    background: linear-gradient(90deg, #97bb79 0%, #91d84e 100%);
+    color: aliceblue !important;
+}
+/* .navbarCustom {
+  background: #f2f2f2;
+} */
