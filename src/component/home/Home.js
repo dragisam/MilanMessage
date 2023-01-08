@@ -71,7 +71,7 @@ const Home = () => {
   // const getUsers = () =>
   //   AdminService.getAdminUsers().then((response) => {
   //     console.log("u pozivu");
-  //     // setUsers(response.data);
+  //    
   //     console.log(response.data);
   //   });
   const onLoginF = () => {
